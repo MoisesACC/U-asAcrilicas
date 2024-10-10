@@ -20,7 +20,13 @@ const services = [
     title: 'Relleno',
     description: 'Mantenimiento para tus uñas acrílicas.',
     price: 'Desde $25'
+  },
+  {
+    title: 'Acrílicos',
+    description: 'Mantenimiento para tus uñas acrílicas.',
+    price: 'Desde $25'
   }
+
 ];
 
 const Services = () => {
